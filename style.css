@@ -470,8 +470,8 @@ button[type="submit"]:hover {
   }
 
   .profile-image {
-      width: 120px;
-      height: 120px;
+      width: 400px;
+      height: 400px;
   }
 
   .changing-text {
